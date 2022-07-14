@@ -1,5 +1,5 @@
 {
-    "name": "foxnetorka/vicomm/sdk",
+    "name": "foxnetorka-vicomm/sdk",
     "description": "Vicomm PHP Client",
     "type": "library",
     "version": "1.3.0",
